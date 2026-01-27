@@ -1,6 +1,6 @@
 {
-  "id": "Jungle",
-  "label": "Jungle",
-  "rgb": "74, 222, 128",
-  "pattern": "radial-gradient(at 0% 0%, hsla(145, 75%, 15%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(45, 80%, 20%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(175, 70%, 18%, 1) 0, transparent 70%)"
+  "id": "Aurora",
+  "label": "Aurora",
+  "rgb": "34, 211, 238",
+  "pattern": "radial-gradient(at 0% 0%, hsla(160, 80%, 18%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(280, 75%, 22%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(200, 85%, 15%, 1) 0, transparent 70%)"
 }
