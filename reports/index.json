@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260126-192414-5sbo",
+    "title": "Not Haro",
+    "commanders": [
+      "Not Haro"
+    ],
+    "dateStart": "2026-01-27T03:24:14.000Z",
+    "dateEnd": "2026-01-27T03:25:26.000Z",
+    "dateLabel": "1/26/2026, 7:24:14 PM - 1/26/2026, 7:25:26 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192414-5sbo",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 49
+    }
+  },
+  {
     "id": "20260125-133614-dnrb",
     "title": "Tilted Illusion",
     "commanders": [
