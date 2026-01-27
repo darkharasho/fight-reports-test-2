@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260125-133614-dnrb",
+    "title": "Tilted Illusion",
+    "commanders": [
+      "Tilted Illusion"
+    ],
+    "dateStart": "2026-01-25T21:36:14.000Z",
+    "dateEnd": "2026-01-25T21:46:43.000Z",
+    "dateLabel": "1/25/2026, 1:36:14 PM - 1/25/2026, 1:46:43 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260125-133614-dnrb",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 4,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 30
+    }
+  },
+  {
     "id": "20260125-123859-o1im",
     "title": "Tilted Illusion",
     "commanders": [
