@@ -1,6 +1,6 @@
 {
-  "id": "Coffee",
-  "label": "Coffee",
-  "rgb": "253, 186, 116",
-  "pattern": "radial-gradient(at 0% 0%, hsla(25, 60%, 15%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(35, 70%, 18%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(30, 50%, 22%, 1) 0, transparent 70%)"
+  "id": "Jungle",
+  "label": "Jungle",
+  "rgb": "74, 222, 128",
+  "pattern": "radial-gradient(at 0% 0%, hsla(145, 75%, 15%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(45, 80%, 20%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(175, 70%, 18%, 1) 0, transparent 70%)"
 }
