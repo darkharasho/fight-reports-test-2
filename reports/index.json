@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260207-195632-a596",
+    "title": "Dub Grumble",
+    "commanders": [
+      "Dub Grumble"
+    ],
+    "dateStart": "2026-02-08T03:56:32.000Z",
+    "dateEnd": "2026-02-08T04:08:41.000Z",
+    "dateLabel": "2/7/2026, 7:56:32 PM - 2/7/2026, 8:08:41 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-195632-a596",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 6,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 25
+    }
+  },
+  {
     "id": "20260207-174945-4ehq",
     "title": "Dub Grumble, Sentinel Harasho",
     "commanders": [
