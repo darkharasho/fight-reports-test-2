@@ -1,755 +1,786 @@
-[
-  {
-    "id": "20260207-181836-459p",
-    "title": "Dub Grumble",
-    "commanders": [
-      "Dub Grumble"
-    ],
-    "dateStart": "2026-02-08T02:18:36.000Z",
-    "dateEnd": "2026-02-08T04:08:41.000Z",
-    "dateLabel": "2/7/2026, 6:18:36 PM - 2/7/2026, 8:08:41 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-181836-459p",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 17,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 11,
-          "color": "#ef4444"
-        }
-      ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 33
-    }
+{
+  "siteTheme": {
+    "ui": "kinetic",
+    "paletteId": "KineticPaperSlate",
+    "kineticFont": "original",
+    "kineticVariant": "slate"
   },
-  {
-    "id": "20260207-200204-aeuz",
-    "title": "Dub Grumble",
-    "commanders": [
-      "Dub Grumble"
-    ],
-    "dateStart": "2026-02-08T04:02:04.000Z",
-    "dateEnd": "2026-02-08T04:08:41.000Z",
-    "dateLabel": "2/7/2026, 8:02:04 PM - 2/7/2026, 8:08:41 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-200204-aeuz",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        }
+  "entries": [
+    {
+      "id": "20260301-172541-6jua",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260207-174800-i7l9",
-    "title": "Dub Grumble, Sentinel Harasho",
-    "commanders": [
-      "Dub Grumble",
-      "Sentinel Harasho"
-    ],
-    "dateStart": "2026-02-08T01:48:00.000Z",
-    "dateEnd": "2026-02-08T04:08:41.000Z",
-    "dateLabel": "2/7/2026, 5:48:00 PM - 2/7/2026, 8:08:41 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-174800-i7l9",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 20,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 11,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-03-02T01:25:41.000Z",
+      "dateEnd": "2026-03-02T03:00:32.000Z",
+      "dateLabel": "3/1/2026, 5:25:41 PM - 3/1/2026, 7:00:32 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260301-172541-6jua",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 42
+      }
+    },
+    {
+      "id": "20260207-181836-459p",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260207-195632-a596",
-    "title": "Dub Grumble",
-    "commanders": [
-      "Dub Grumble"
-    ],
-    "dateStart": "2026-02-08T03:56:32.000Z",
-    "dateEnd": "2026-02-08T04:08:41.000Z",
-    "dateLabel": "2/7/2026, 7:56:32 PM - 2/7/2026, 8:08:41 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-195632-a596",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-08T02:18:36.000Z",
+      "dateEnd": "2026-02-08T04:08:41.000Z",
+      "dateLabel": "2/7/2026, 6:18:36 PM - 2/7/2026, 8:08:41 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-181836-459p",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260207-200204-aeuz",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 25
-    }
-  },
-  {
-    "id": "20260207-174945-4ehq",
-    "title": "Dub Grumble, Sentinel Harasho",
-    "commanders": [
-      "Dub Grumble",
-      "Sentinel Harasho"
-    ],
-    "dateStart": "2026-02-08T01:49:45.000Z",
-    "dateEnd": "2026-02-08T04:08:41.000Z",
-    "dateLabel": "2/7/2026, 5:49:45 PM - 2/7/2026, 8:08:41 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-174945-4ehq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 19,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 11,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-08T04:02:04.000Z",
+      "dateEnd": "2026-02-08T04:08:41.000Z",
+      "dateLabel": "2/7/2026, 8:02:04 PM - 2/7/2026, 8:08:41 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-200204-aeuz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260207-174800-i7l9",
+      "title": "Dub Grumble, Sentinel Harasho",
+      "commanders": [
+        "Dub Grumble",
+        "Sentinel Harasho"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260206-193542-n9ft",
-    "title": "Charrmander Harasho",
-    "commanders": [
-      "Charrmander Harasho"
-    ],
-    "dateStart": "2026-02-07T03:35:42.000Z",
-    "dateEnd": "2026-02-07T04:06:18.000Z",
-    "dateLabel": "2/6/2026, 7:35:42 PM - 2/6/2026, 8:06:18 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260206-193542-n9ft",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-08T01:48:00.000Z",
+      "dateEnd": "2026-02-08T04:08:41.000Z",
+      "dateLabel": "2/7/2026, 5:48:00 PM - 2/7/2026, 8:08:41 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-174800-i7l9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260207-195632-a596",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
       ],
-      "avgSquadSize": 49,
-      "avgEnemySize": 17
-    }
-  },
-  {
-    "id": "20260206-193542-vchc",
-    "title": "Charrmander Harasho",
-    "commanders": [
-      "Charrmander Harasho"
-    ],
-    "dateStart": "2026-02-07T03:35:42.000Z",
-    "dateEnd": "2026-02-07T04:06:18.000Z",
-    "dateLabel": "2/6/2026, 7:35:42 PM - 2/6/2026, 8:06:18 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260206-193542-vchc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-08T03:56:32.000Z",
+      "dateEnd": "2026-02-08T04:08:41.000Z",
+      "dateLabel": "2/7/2026, 7:56:32 PM - 2/7/2026, 8:08:41 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-195632-a596",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 25
+      }
+    },
+    {
+      "id": "20260207-174945-4ehq",
+      "title": "Dub Grumble, Sentinel Harasho",
+      "commanders": [
+        "Dub Grumble",
+        "Sentinel Harasho"
       ],
-      "avgSquadSize": 49,
-      "avgEnemySize": 17
-    }
-  },
-  {
-    "id": "20260131-175119-e24v",
-    "title": "Dub Grumble",
-    "commanders": [
-      "Dub Grumble"
-    ],
-    "dateStart": "2026-02-01T01:51:19.000Z",
-    "dateEnd": "2026-02-01T04:01:27.000Z",
-    "dateLabel": "1/31/2026, 5:51:19 PM - 1/31/2026, 8:01:27 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260131-175119-e24v",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 29,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-08T01:49:45.000Z",
+      "dateEnd": "2026-02-08T04:08:41.000Z",
+      "dateLabel": "2/7/2026, 5:49:45 PM - 2/7/2026, 8:08:41 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260207-174945-4ehq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260206-193542-n9ft",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260204-170642-qo86",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-05T01:06:42.000Z",
-    "dateEnd": "2026-02-05T02:17:06.000Z",
-    "dateLabel": "2/4/2026, 5:06:42 PM - 2/4/2026, 6:17:06 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260204-170642-qo86",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 19,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-07T03:35:42.000Z",
+      "dateEnd": "2026-02-07T04:06:18.000Z",
+      "dateLabel": "2/6/2026, 7:35:42 PM - 2/6/2026, 8:06:18 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260206-193542-n9ft",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 17
+      }
+    },
+    {
+      "id": "20260206-193542-vchc",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260204-170642-48o6",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-05T01:06:42.000Z",
-    "dateEnd": "2026-02-05T02:17:06.000Z",
-    "dateLabel": "2/4/2026, 5:06:42 PM - 2/4/2026, 6:17:06 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260204-170642-48o6",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 19,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-07T03:35:42.000Z",
+      "dateEnd": "2026-02-07T04:06:18.000Z",
+      "dateLabel": "2/6/2026, 7:35:42 PM - 2/6/2026, 8:06:18 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260206-193542-vchc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 17
+      }
+    },
+    {
+      "id": "20260131-175119-e24v",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260204-170642-kx7l",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-05T01:06:42.000Z",
-    "dateEnd": "2026-02-05T02:17:06.000Z",
-    "dateLabel": "2/4/2026, 5:06:42 PM - 2/4/2026, 6:17:06 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260204-170642-kx7l",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 19,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-01T01:51:19.000Z",
+      "dateEnd": "2026-02-01T04:01:27.000Z",
+      "dateLabel": "1/31/2026, 5:51:19 PM - 1/31/2026, 8:01:27 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260131-175119-e24v",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "20260204-170642-qo86",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260204-170642-iubu",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-05T01:06:42.000Z",
-    "dateEnd": "2026-02-05T02:10:49.000Z",
-    "dateLabel": "2/4/2026, 5:06:42 PM - 2/4/2026, 6:10:49 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260204-170642-iubu",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-05T01:06:42.000Z",
+      "dateEnd": "2026-02-05T02:17:06.000Z",
+      "dateLabel": "2/4/2026, 5:06:42 PM - 2/4/2026, 6:17:06 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260204-170642-qo86",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260204-170642-48o6",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 41,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260131-175119-c7mj",
-    "title": "Dub Grumble",
-    "commanders": [
-      "Dub Grumble"
-    ],
-    "dateStart": "2026-02-01T01:51:19.000Z",
-    "dateEnd": "2026-02-01T04:01:27.000Z",
-    "dateLabel": "1/31/2026, 5:51:19 PM - 1/31/2026, 8:01:27 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260131-175119-c7mj",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 29,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-05T01:06:42.000Z",
+      "dateEnd": "2026-02-05T02:17:06.000Z",
+      "dateLabel": "2/4/2026, 5:06:42 PM - 2/4/2026, 6:17:06 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260204-170642-48o6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260204-170642-kx7l",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260131-175119-fjoq",
-    "title": "Dub Grumble",
-    "commanders": [
-      "Dub Grumble"
-    ],
-    "dateStart": "2026-02-01T01:51:19.000Z",
-    "dateEnd": "2026-02-01T04:01:27.000Z",
-    "dateLabel": "1/31/2026, 5:51:19 PM - 1/31/2026, 8:01:27 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260131-175119-fjoq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 29,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-05T01:06:42.000Z",
+      "dateEnd": "2026-02-05T02:17:06.000Z",
+      "dateLabel": "2/4/2026, 5:06:42 PM - 2/4/2026, 6:17:06 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260204-170642-kx7l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260204-170642-iubu",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "19700121-034129-ojxy",
-    "title": "Guardian Kamoidra",
-    "commanders": [
-      "Guardian Kamoidra"
-    ],
-    "dateStart": "1970-01-21T11:41:29.100Z",
-    "dateEnd": "1970-01-21T11:41:29.565Z",
-    "dateLabel": "1/21/1970, 3:41:29 AM - 1/21/1970, 3:41:29 AM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=19700121-034129-ojxy",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-05T01:06:42.000Z",
+      "dateEnd": "2026-02-05T02:10:49.000Z",
+      "dateLabel": "2/4/2026, 5:06:42 PM - 2/4/2026, 6:10:49 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260204-170642-iubu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260131-175119-c7mj",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260202-192329-1vbj",
-    "title": "Guardian Kamoidra",
-    "commanders": [
-      "Guardian Kamoidra"
-    ],
-    "dateStart": "2026-02-03T03:23:29.000Z",
-    "dateEnd": "2026-02-03T03:32:41.000Z",
-    "dateLabel": "2/2/2026, 7:23:29 PM - 2/2/2026, 7:32:41 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260202-192329-1vbj",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Alpine Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-01T01:51:19.000Z",
+      "dateEnd": "2026-02-01T04:01:27.000Z",
+      "dateLabel": "1/31/2026, 5:51:19 PM - 1/31/2026, 8:01:27 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260131-175119-c7mj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "20260131-175119-fjoq",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260126-192938-dpbh",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:29:38.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports/?report=20260126-192938-dpbh",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-02-01T01:51:19.000Z",
+      "dateEnd": "2026-02-01T04:01:27.000Z",
+      "dateLabel": "1/31/2026, 5:51:19 PM - 1/31/2026, 8:01:27 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260131-175119-fjoq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "19700121-034129-ojxy",
+      "title": "Guardian Kamoidra",
+      "commanders": [
+        "Guardian Kamoidra"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260126-192938-ss6t",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:29:38.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports/?report=20260126-192938-ss6t",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "1970-01-21T11:41:29.100Z",
+      "dateEnd": "1970-01-21T11:41:29.565Z",
+      "dateLabel": "1/21/1970, 3:41:29 AM - 1/21/1970, 3:41:29 AM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=19700121-034129-ojxy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260202-192329-1vbj",
+      "title": "Guardian Kamoidra",
+      "commanders": [
+        "Guardian Kamoidra"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260126-192938-ycrw",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:29:38.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports/?report=20260126-192938-ycrw",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-02-03T03:23:29.000Z",
+      "dateEnd": "2026-02-03T03:32:41.000Z",
+      "dateLabel": "2/2/2026, 7:23:29 PM - 2/2/2026, 7:32:41 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260202-192329-1vbj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Alpine Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260126-192938-dpbh",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260126-192706-l0a1",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:27:06.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:27:06 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports/?report=20260126-192706-l0a1",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-27T03:29:38.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports/?report=20260126-192938-dpbh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260126-192938-ss6t",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260126-192706-hqne",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:27:06.000Z",
-    "dateEnd": "2026-01-27T03:28:38.000Z",
-    "dateLabel": "1/26/2026, 7:27:06 PM - 1/26/2026, 7:28:38 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192706-hqne",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-27T03:29:38.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports/?report=20260126-192938-ss6t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260126-192938-ycrw",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 50
-    }
-  },
-  {
-    "id": "20260126-192414-5sbo",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:24:14.000Z",
-    "dateEnd": "2026-01-27T03:25:26.000Z",
-    "dateLabel": "1/26/2026, 7:24:14 PM - 1/26/2026, 7:25:26 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192414-5sbo",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-27T03:29:38.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports/?report=20260126-192938-ycrw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260126-192706-l0a1",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260125-133614-dnrb",
-    "title": "Tilted Illusion",
-    "commanders": [
-      "Tilted Illusion"
-    ],
-    "dateStart": "2026-01-25T21:36:14.000Z",
-    "dateEnd": "2026-01-25T21:46:43.000Z",
-    "dateLabel": "1/25/2026, 1:36:14 PM - 1/25/2026, 1:46:43 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260125-133614-dnrb",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 4,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-01-27T03:27:06.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:27:06 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports/?report=20260126-192706-l0a1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260126-192706-hqne",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260125-123859-o1im",
-    "title": "Tilted Illusion",
-    "commanders": [
-      "Tilted Illusion"
-    ],
-    "dateStart": "2026-01-25T20:38:59.000Z",
-    "dateEnd": "2026-01-25T20:40:48.000Z",
-    "dateLabel": "1/25/2026, 12:38:59 PM - 1/25/2026, 12:40:48 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260125-123859-o1im",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 1,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-01-27T03:27:06.000Z",
+      "dateEnd": "2026-01-27T03:28:38.000Z",
+      "dateLabel": "1/26/2026, 7:27:06 PM - 1/26/2026, 7:28:38 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192706-hqne",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 50
+      }
+    },
+    {
+      "id": "20260126-192414-5sbo",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 17,
-      "avgEnemySize": 18
-    }
-  },
-  {
-    "id": "20260126-192938-l7k0",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:29:38.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192938-l7k0",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-27T03:24:14.000Z",
+      "dateEnd": "2026-01-27T03:25:26.000Z",
+      "dateLabel": "1/26/2026, 7:24:14 PM - 1/26/2026, 7:25:26 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192414-5sbo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260125-133614-dnrb",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260126-192938-5t58",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:29:38.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192938-5t58",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-25T21:36:14.000Z",
+      "dateEnd": "2026-01-25T21:46:43.000Z",
+      "dateLabel": "1/25/2026, 1:36:14 PM - 1/25/2026, 1:46:43 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260125-133614-dnrb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260125-123859-o1im",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260126-192706-cspv",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:27:06.000Z",
-    "dateEnd": "2026-01-27T03:28:38.000Z",
-    "dateLabel": "1/26/2026, 7:27:06 PM - 1/26/2026, 7:28:38 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192706-cspv",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-25T20:38:59.000Z",
+      "dateEnd": "2026-01-25T20:40:48.000Z",
+      "dateLabel": "1/25/2026, 12:38:59 PM - 1/25/2026, 12:40:48 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260125-123859-o1im",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 18
+      }
+    },
+    {
+      "id": "20260126-192938-l7k0",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 50
-    }
-  },
-  {
-    "id": "20260126-192938-n9pb",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:29:38.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192938-n9pb",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-27T03:29:38.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192938-l7k0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260126-192938-5t58",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260126-192706-kc5k",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:27:06.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:27:06 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192706-kc5k",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-27T03:29:38.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192938-5t58",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260126-192706-cspv",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260126-192706-zjod",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:27:06.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:27:06 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192706-zjod",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-27T03:27:06.000Z",
+      "dateEnd": "2026-01-27T03:28:38.000Z",
+      "dateLabel": "1/26/2026, 7:27:06 PM - 1/26/2026, 7:28:38 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192706-cspv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 50
+      }
+    },
+    {
+      "id": "20260126-192938-n9pb",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260126-192938-rsl4",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:29:38.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192938-rsl4",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-27T03:29:38.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192938-n9pb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260126-192706-kc5k",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260126-192938-1kyy",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-01-27T03:29:38.000Z",
-    "dateEnd": "2026-01-27T03:30:45.000Z",
-    "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
-    "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192938-1kyy",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-01-27T03:27:06.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:27:06 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192706-kc5k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260126-192706-zjod",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 48
+      "dateStart": "2026-01-27T03:27:06.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:27:06 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192706-zjod",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260126-192938-rsl4",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-01-27T03:29:38.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192938-rsl4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260126-192938-1kyy",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-01-27T03:29:38.000Z",
+      "dateEnd": "2026-01-27T03:30:45.000Z",
+      "dateLabel": "1/26/2026, 7:29:38 PM - 1/26/2026, 7:30:45 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test-2/?report=20260126-192938-1kyy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
     }
-  }
-]
+  ]
+}
